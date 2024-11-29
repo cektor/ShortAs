@@ -13,7 +13,7 @@ This application is alias Management Tool with Advanced Graphical User Interface
 # Linux Dark Screenshot
 ![Linux(pardus_dark)](screenshot/shortas_pardus_dark.png)  
 
-# Windows Screenshot
+# Linux Light Screenshot
 ![Linux(pardus_light)](screenshot/shortas_pardus_light.png) 
 
 --------------------
