@@ -1,0 +1,13 @@
+Source: shortas
+Section: python
+Priority: optional
+Maintainer: Fatih ÖNDER <fatih@algyazilim.com>
+Build-Depends: debhelper (>= 13), python3-all, python3-setuptools, dh-python
+Standards-Version: 4.1.5
+Homepage: https://algyazilim.com
+
+Package: shortas
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-pyqt5
+Description: Bu uygulama, Gelişmiş Grafiksel Kullanıcı Arayüzlü alias Yönetim Aracıdır.
+ Kullanıcının terminal alias'larını kolay ve güvenli şekilde yönetmesine yardımcı olur.

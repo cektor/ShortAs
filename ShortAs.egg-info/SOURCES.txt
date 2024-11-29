@@ -1,0 +1,9 @@
+LICENSE.txt
+setup.py
+shortas.desktop
+ShortAs.egg-info/PKG-INFO
+ShortAs.egg-info/SOURCES.txt
+ShortAs.egg-info/dependency_links.txt
+ShortAs.egg-info/entry_points.txt
+ShortAs.egg-info/top_level.txt
+shortas/shortas.py

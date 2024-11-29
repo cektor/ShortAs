@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=ShortAs
+Comment=Alias Admin Tool
+Exec=python3 /usr/bin/shortas.py
+Icon=/usr/share/icons/hicolor/48x48/apps/shortaslo.png
+Terminal=false
+Type=Application
+Categories=Utility
+
+Name[tr_TR]=ShortAs

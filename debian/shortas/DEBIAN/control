@@ -1,0 +1,11 @@
+Package: shortas
+Version: 1.0-1
+Architecture: all
+Maintainer: Fatih ÖNDER <fatih@algyazilim.com>
+Installed-Size: 71
+Depends: python3-pyqt5
+Section: python
+Priority: optional
+Homepage: https://algyazilim.com
+Description: Bu uygulama, Gelişmiş Grafiksel Kullanıcı Arayüzlü alias Yönetim Aracıdır.
+ Kullanıcının terminal alias'larını kolay ve güvenli şekilde yönetmesine yardımcı olur.

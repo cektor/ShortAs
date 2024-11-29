@@ -1,0 +1,4 @@
+#!/bin/bash
+shortas.py usr/bin/
+shortas.desktop usr/share/applications/
+debian/shortaslo.png /usr/share/icons/hicolor/48x48/apps/
