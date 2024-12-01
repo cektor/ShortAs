@@ -93,7 +93,7 @@ MacOS VSCode Terminal
 pyinstaller --onefile --noconsole shortas.py
 ```
 
-# To install directly on Windows or Linux
+# To install directly on Linux
 
 
 
