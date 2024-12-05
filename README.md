@@ -1,3 +1,6 @@
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
+</a>
 # ShortAs
 This application is alias Management Tool with Advanced Graphical User Interface. It helps Linux Users to manage terminal alias easily and securely.
 
